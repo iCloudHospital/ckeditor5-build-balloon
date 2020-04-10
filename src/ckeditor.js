@@ -97,6 +97,7 @@ BalloonEditor.defaultConfig = {
 	},
 	simpleUpload: {
 		uploadUrl: 'https://api-int.icloudhospital.com/api/v1/images'
+		// uploadUrl: 'http://localhost:3000/files'
 	},
 	// This value must be kept in sync with the language defined in webpack.config.js.
 	language: 'en'
